@@ -1,0 +1,16 @@
+{
+  "policy": "仅政府采购、公共资源交易、正式招中标/合同附件及正式监管披露复核材料；排除新闻稿和转载",
+  "officialHosts": [
+    "www.ccgp.gov.cn",
+    "www.ccgp-neimenggu.gov.cn",
+    "zfcg.henan.gov.cn",
+    "erqi.zfcg.henan.gov.cn",
+    "ggzy.ln.gov.cn",
+    "czj.yancheng.gov.cn",
+    "reportdocs.static.szse.cn"
+  ],
+  "categories": {
+    "resource": "热解、水洗、熔融、烧结或其他明确资源化利用",
+    "landfill": "固化或稳定化后进入填埋场处置"
+  }
+}
