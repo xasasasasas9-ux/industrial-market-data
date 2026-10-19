@@ -97,15 +97,39 @@
   },
   {
     "category": "resource",
+    "province": "江苏省",
+    "city": "盐城市",
+    "date": "2025-07-15",
+    "price": 719.8,
+    "priceKind": "合同单价",
+    "process": "生活垃圾焚烧飞灰资源化综合利用",
+    "project": "盐城市静脉产业园生活垃圾焚烧飞灰资源化利用服务项目",
+    "sourceTitle": "盐城市财政局政府采购合同公告",
+    "sourceURL": "https://czj.yancheng.gov.cn/art/2025/7/17/art_20137_23214.html"
+  },
+  {
+    "category": "resource",
+    "province": "浙江省",
+    "city": "丽水市",
+    "date": "2025-12-16",
+    "price": 1300.0,
+    "priceKind": "招标限价",
+    "process": "低温热分解+酸洗水洗资源化",
+    "project": "丽水市飞灰资源化利用处置项目运营服务",
+    "sourceTitle": "丽水市阳光采购服务平台更正公告",
+    "sourceURL": "https://lsygcg.com/jyxx/001001/001001003/001001003002/20251216/cffbbb5d-0880-4630-a576-1acb992507b7.html"
+  },
+  {
+    "category": "resource",
     "province": "河南省",
     "city": "商丘市",
     "date": "2026-02-12",
-    "price": 1500.0,
-    "priceKind": "招标限价",
+    "price": 1195.0,
+    "priceKind": "中标测算价",
     "process": "资源化利用（禁止填埋）",
     "project": "生活垃圾焚烧飞灰资源化利用处置服务",
-    "sourceTitle": "河南省政府采购网招标文件",
-    "sourceURL": "https://zfcg.henan.gov.cn/cmsweb81e27e/shangqiu/rootfiles/2026/02/12/1c674066089c470abc46d84b29d5d9b3.pdf"
+    "sourceTitle": "商丘市政府采购结果公告（中标358.5万元÷3000吨）",
+    "sourceURL": "https://shangqiu.zfcg.henan.gov.cn/shangqiu/content?bz=1&channelCode=H750602&infoId=1923992"
   },
   {
     "category": "resource",
@@ -123,13 +147,13 @@
     "category": "resource",
     "province": "江苏省",
     "city": "南通市通州区",
-    "date": "2026-05-19",
-    "price": 1325.0,
-    "priceKind": "招标测算价",
+    "date": "2026-06-15",
+    "price": 1314.0,
+    "priceKind": "中标价",
     "process": "资源化全链条处置",
     "project": "通州区生活垃圾焚烧飞灰资源化利用处置",
-    "sourceTitle": "中国政府采购网单一来源公示（预算1431万元÷年1.08万吨）",
-    "sourceURL": "https://www.ccgp.gov.cn/cggg/dfgg/dylygg/202605/t20260519_26588913.htm"
+    "sourceTitle": "江苏省公共资源交易网成交公告",
+    "sourceURL": "https://jsggzy.jszwfw.gov.cn/jyxx/003004/003004006/20260615/b88e439e6b0a4816a3543d74f09062c2.html"
   },
   {
     "category": "resource",
@@ -157,6 +181,18 @@
   },
   {
     "category": "landfill",
+    "province": "江苏省",
+    "city": "东台市",
+    "date": "2024-07-31",
+    "price": 182.2,
+    "priceKind": "中标价",
+    "process": "稳定化飞灰填埋场一体化运营",
+    "project": "2024年东台市新曹生活垃圾卫生填埋场飞灰运营服务",
+    "sourceTitle": "盐城市财政局政府采购中标公告",
+    "sourceURL": "https://czj.yancheng.gov.cn/art/2024/7/31/art_20180_21493.html"
+  },
+  {
+    "category": "landfill",
     "province": "河南省",
     "city": "林州市",
     "date": "2024-09-20",
@@ -170,6 +206,18 @@
   {
     "category": "landfill",
     "province": "江苏省",
+    "city": "东台市",
+    "date": "2025-08-02",
+    "price": 178.0,
+    "priceKind": "合同单价",
+    "process": "稳定化飞灰填埋场一体化运营",
+    "project": "2025年东台市新曹生活垃圾卫生填埋场飞灰运营服务",
+    "sourceTitle": "盐城市财政局政府采购合同公告",
+    "sourceURL": "https://czj.yancheng.gov.cn/art/2025/8/4/art_20185_23324.html"
+  },
+  {
+    "category": "landfill",
+    "province": "江苏省",
     "city": "建湖县",
     "date": "2025-01-13",
     "price": 329.0,
@@ -178,6 +226,18 @@
     "project": "飞灰库区运营服务采购项目",
     "sourceTitle": "盐城市财政局政府采购合同公告",
     "sourceURL": "https://czj.yancheng.gov.cn/art/2025/1/13/art_20185_21927.html"
+  },
+  {
+    "category": "landfill",
+    "province": "江苏省",
+    "city": "东台市",
+    "date": "2026-06-04",
+    "price": 182.9,
+    "priceKind": "中标价",
+    "process": "稳定化飞灰填埋场一体化运营",
+    "project": "2026年东台市新曹生活垃圾卫生填埋场飞灰运营服务",
+    "sourceTitle": "盐城市财政局政府采购中标公告",
+    "sourceURL": "https://czj.yancheng.gov.cn/art/2026/6/4/art_20180_34124.html"
   },
   {
     "category": "landfill",
