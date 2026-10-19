@@ -18,8 +18,11 @@ OFFICIAL_HOSTS = {
     "ccgp-neimenggu.gov.cn",
     "zfcg.henan.gov.cn",
     "erqi.zfcg.henan.gov.cn",
+    "shangqiu.zfcg.henan.gov.cn",
     "ggzy.ln.gov.cn",
+    "jsggzy.jszwfw.gov.cn",
     "czj.yancheng.gov.cn",
+    "lsygcg.com",
     "reportdocs.static.szse.cn",
 }
 
